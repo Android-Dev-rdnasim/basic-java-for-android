@@ -1,0 +1,17 @@
+package ClassAndObject;
+
+import java.util.Scanner;
+
+public class Package {
+
+    public static void main(String[] args) {
+        Scanner myObj = new Scanner(System.in);
+
+        System.out.println("Enter username: ");
+
+        String userName = myObj.nextLine(); //from user input
+
+        System.out.println("UserName is: " +userName);
+    }
+
+}

@@ -16,7 +16,6 @@ public class StaticOrNonStatic {
 
         //create object
         StaticOrNonStatic myObj = new StaticOrNonStatic();
-
         myObj.myPublicMethod();
     }
 }
