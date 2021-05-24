@@ -12,4 +12,5 @@ public class EncapsulationSecond {
     public void setName(String newName){
         this.name = newName;
     }
+
 }
